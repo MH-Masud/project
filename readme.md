@@ -1,4 +1,4 @@
-E-Commerce-Website-Using-PHP In Laravel Framework 5.7
+<h3><b>E-Commerce-Website-Using-PHP In Laravel Framework 5.7</b></h3>
 
 Project Summary
 It's my first full e-commerce project. This is free & anybody can use this project.
